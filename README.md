@@ -1,1 +1,2 @@
-﻿Alteracao feita no terminal 2
+Alteracao feita no terminal 1
+Alteracao feita no terminal 2
