@@ -1,2 +1,1 @@
-# teste-para-atividade-6
-tst
+﻿Alteracao feita no terminal 2
